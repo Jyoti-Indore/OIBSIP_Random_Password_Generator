@@ -57,6 +57,7 @@ Improved understanding of Python libraries like random and string.
 Learned how to develop user-interactive CLI tools.
 
 Enhanced skills in writing clean, modular, and readable code.
+
 ---
 
 ## 📝 Internship Acknowledgement
